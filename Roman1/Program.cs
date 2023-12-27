@@ -16,7 +16,7 @@ namespace Roman1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Home());
+            Application.Run(new Authorization());
         }
     }
     static class database
